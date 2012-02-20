@@ -1,0 +1,15 @@
+{
+  "author": "George Erickson <george55@mit.edu>",
+  "name": "favjs",
+  "description": "favjs api server",
+  "version": "0.0.0",
+  "homepage": "favjs.com",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
