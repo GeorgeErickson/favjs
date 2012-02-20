@@ -1,3 +1,6 @@
 www:
+    type: static
+    approot: app
+api:
     type: nodejs
     approot: api
