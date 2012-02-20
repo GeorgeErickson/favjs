@@ -11,5 +11,9 @@
     "node": "~0.6.7"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js"
 }
