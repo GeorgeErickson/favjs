@@ -1,0 +1,22 @@
+{
+  "author": "George Erickson <george55@mit.edu>",
+  "name": "favjs",
+  "description": "A site to track awesome js libraries",
+  "version": "0.0.0",
+  "homepage": "favjs.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GeorgeErickson/favjs.git"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+    "express": "",
+    "express-mongoose": "",
+    "everyauth": ""
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
